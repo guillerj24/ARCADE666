@@ -1,0 +1,2 @@
+<script id="bard-initial-data" data-payload="{&quot;KEsM4&quot;:false,&quot;ZXlM5e&quot;:false,&quot;Qd7BXc&quot;:false}" nonce="gP2dpOmPc2CFWf2BJtnzHQ">(function(){'use strict';var a=document.currentScript,b,c=(b=a==null?void 0:a.getAttribute("data-payload"))!=null?b:"{}";JSON.parse(c).KEsM4&&document.body.classList.add("sidenav-open-on-init");}).call(this);
+</script>

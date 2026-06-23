@@ -1,0 +1,22 @@
+>var _F_cssRowKey = 'boq-bard-web.BardChatUi.YuJ59AHSX58.L.B1.O';var _F_combinedSignature = 'AL3bBk2EZMwWGD66CidfYZ546y-wy-9Gkw';function _DumpException(e) {throw e;}</script><style data-href=
+
+---
+
+");for(var c=_.t,d;a.length&&(d=a.shift());)a.length||b===void 0?c[d]&&c[d]!==Object.prototype[d]?c=c[d]:c=c[d]={}:c[d]=b};_.Xa=function(a){return a};
+_.B=function(a,b){function c(){}c.prototype=b.prototype;a.X=b.prototype;a.prototype=new c;a.prototype.constructor=a;a.Nn=function(d,e,f){for(var g=Array(arguments.length-2),h=2;h<arguments.length;h++)g[h-2]=arguments[h];return b.prototype[e].apply(d,g)}};_.B(_.aa,Error);_.aa.prototype.name="
+
+---
+
+>var AF_initDataKeys = []; var AF_dataServiceRequests = {}; var AF_initDataChunkQueue = []; var AF_initDataCallback; var AF_initDataInitializeCallback; if (AF_initDataInitializeCallback) {AF_initDataInitializeCallback(AF_initDataKeys, AF_initDataChunkQueue, AF_dataServiceRequests);}if (!AF_initDataCallback) {AF_initDataCallback = function(chunk) {AF_initDataChunkQueue.push(chunk);};}</script></head><div style=
+
+---
+
+):_.ve(d,c));b.length>2&&ye(a,d,b);return d};ye=function(a,b,c){function d(e){e&&b.appendChild(typeof e===
+
+---
+
+",()=>{window.setTimeout(hj,b)})}})();
+}catch(e){_._DumpException(e)}
+})(this.gbar_);
+// Google Inc.
+</script><div ng-non-bindable="

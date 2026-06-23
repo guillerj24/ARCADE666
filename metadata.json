@@ -1,0 +1,6 @@
+{
+  "name": "Juegos de Arcade",
+  "description": "Una plataforma interactiva con juegos clásicos como Serpiente, Rompe Ladrillos y Esquiva Espacial, clonados y mejorados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
